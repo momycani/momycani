@@ -21,4 +21,8 @@
   <a href="https://github.com/momycani">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
+  <a href="https://www.linkedin.com/in/elizabeth-kenward-4b123023a">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </p>
+
