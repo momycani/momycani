@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Beth%20Kenward&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
+</p>
+
 # Hi 👋 My name is Beth Coleman Kenward
 
 ### Frontend Developer
@@ -35,3 +39,5 @@
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=momycani&layout=compact&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=momycani\&layout=compact\&theme=tokyonight)
