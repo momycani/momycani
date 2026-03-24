@@ -26,3 +26,9 @@
   </a>
 </p>
 
+
+---
+
+### My GitHub Stats
+
+![Beth's GitHub stats](https://github-readme-stats.vercel.app/api?username=momycani\&show_icons=true\&theme=tokyonight)
